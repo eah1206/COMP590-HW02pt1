@@ -1,0 +1,8 @@
+Part 1:
+
+https://jsbin.com/gelamez/2/edit?html,output
+
+Part 2 (I realize I didn't have to make an entirely new animation,
+but I didn't know how I would add hierarchy to a mouse head):
+
+https://jsbin.com/tudatax/edit?html,js,output
